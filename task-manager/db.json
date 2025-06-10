@@ -1,0 +1,95 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Reunião com equipe",
+      "description": "Discussão sobre o novo projeto",
+      "priority": "high",
+      "category": "work",
+      "estimated_duration": 60,
+      "deadline": "2024-03-20T15:00:00Z",
+      "status": "pending"
+    },
+    {
+      "title": "Estudar React Query",
+      "description": "Aprofundar em React Query e hooks personalizados",
+      "category": "personal",
+      "priority": "medium",
+      "estimated_duration": 90,
+      "deadline": "2024-03-21T16:00:00.000Z",
+      "status": "in-progress",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Organizar tarefas semanais",
+      "description": "Limpar o backlog e organizar prioridades",
+      "priority": "low",
+      "category": "work",
+      "estimated_duration": 30,
+      "deadline": "2024-03-22T09:00:00Z",
+      "status": "done"
+    },
+    {
+      "id": "4",
+      "title": "Comprar mantimentos",
+      "description": "Frutas, vegetais e laticínios para a semana",
+      "priority": "medium",
+      "category": "personal",
+      "estimated_duration": 45,
+      "deadline": "2024-03-23T16:00:00Z",
+      "status": "pending"
+    }
+  ],
+  "suggestions": [
+    {
+      "task_id": 1,
+      "suggested_times": [
+        {
+          "start": "2024-03-20T10:00:00Z",
+          "end": "2024-03-20T11:00:00Z",
+          "score": 0.9
+        },
+        {
+          "start": "2024-03-20T14:00:00Z",
+          "end": "2024-03-20T15:00:00Z",
+          "score": 0.8
+        }
+      ],
+      "id": "3945"
+    },
+    {
+      "task_id": 2,
+      "suggested_times": [
+        {
+          "start": "2024-03-21T09:00:00Z",
+          "end": "2024-03-21T10:30:00Z",
+          "score": 0.95
+        }
+      ],
+      "id": "6926"
+    },
+    {
+      "task_id": 3,
+      "suggested_times": [
+        {
+          "start": "2024-03-22T08:00:00Z",
+          "end": "2024-03-22T08:30:00Z",
+          "score": 0.7
+        }
+      ],
+      "id": "96e3"
+    },
+    {
+      "task_id": 4,
+      "suggested_times": [
+        {
+          "start": "2024-03-23T15:00:00Z",
+          "end": "2024-03-23T15:45:00Z",
+          "score": 0.85
+        }
+      ],
+      "id": "0f44"
+    }
+  ]
+}
